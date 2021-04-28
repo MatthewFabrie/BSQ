@@ -1,0 +1,2 @@
+# BSQ
+In this project I had to come up with an algorithm that would be able to find the biggest square of one kind of characters in a map filled with random characters, the square needs to be perfect and as sound as one of the sides of the square can't get any bigger, the square should stop expanding. to launch the project you must first clone the repository then you have to execute the "make" command at the root of the project and then you must execute the following command "./bsq map.txt" with map.txt being the selected map to find the square in. Final grade: 89.6%
